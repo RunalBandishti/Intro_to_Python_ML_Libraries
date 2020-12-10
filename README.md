@@ -1,6 +1,6 @@
 # Intro_to_Python_ML_Libraries
 
-This Repo contents Introduction to Machine Learning Libraries such as **Numpy,Pandas,MatplotLib**.
+This Repo contents Introduction to Machine Learning Libraries such as **Numpy,Pandas,MatplotLib,Scikit-Learn**.
 
 **.ipynb** are the Jupyter Notebook files
 
